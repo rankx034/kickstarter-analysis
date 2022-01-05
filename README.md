@@ -7,7 +7,7 @@ This project was focused on ascertaining whether or not the start date and overa
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 To start, I focused on what effect, if any, the launch date of a Kickstarter campaign had on its success. By filtering for 'theater' campaigns as well as the launch month in a pivot table, I was able to visualize how many theater campaigns were successful, failed, or canceled based on their launch month. This visualization is found in Figure 1 below.
-![(https://github.com/rankx034/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)]
+![(https://github.com/rankx034/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?)]
 
 As Figure 1 shows, there were significantly more successful theater campaigns that began in the month of may than any other month. The rest of summer comes with a drop-off in successful launches, but is still higher than the rest of the year. Failed campaigns do not appear to follow a similar trend, however there is a noted increase in the incidence of failed campaigns in mid-Autumn. The increase in successful summer launches can likely be attributed to the cyclicality of the theater season, or the period of the year in which theaters will perform before going on hiatus. This is typically between September and May, but can certainly vary based on the size and popularity of the production company. 
 
